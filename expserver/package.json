@@ -1,0 +1,17 @@
+{
+  "name": "expserver",
+  "version": "1.0.0",
+  "description": "Simple webserver with express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paval Miatlitski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "nodemailer": "^6.1.0"
+  }
+}
